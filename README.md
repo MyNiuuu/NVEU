@@ -15,6 +15,9 @@ cd ..
 pip install timm
 ```
 
+## Download pretrained checkpoint
+Download checkpoints from [here](https://drive.google.com/file/d/12wxxUenS4MYIco5kswsbV-vCDRVRh_qn/view?usp=drive_link), and put it into `./`.
+
 ## Run Test Script
 ```
 chmod 777 test.sh
