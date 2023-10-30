@@ -1,6 +1,6 @@
 # NIR-assisted Low-light Video Enhancement Using Unpaired 24-hour Data
 
-In this repository, we provide source codes and pretrained checkpoint for run the test demo. The full dataset and training codes will be available in the future. Please submit a issue or contact muyao.niu@gmail.com if you are in a hurry for these.
+In this repository, we provide source codes and pretrained checkpoint for run the test demo. The full dataset and training codes will be available in the future. Please submit an issue or contact muyao.niu@gmail.com if you are in a hurry for these.
 
 ## Environment Setup
 ```
