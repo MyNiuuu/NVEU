@@ -1,6 +1,9 @@
 # NIR-assisted Low-light Video Enhancement Using Unpaired 24-hour Data
 
-In this repository, we provide source codes and pretrained checkpoint for run the test demo. The full dataset and training codes will be available in the future. Please submit an issue or contact muyao.niu@gmail.com if you are in a hurry for these.
+In this repository, we provide source codes and pretrained checkpoint for run the test demo.
+
+## FMSVD Dataset
+You can download the FMSVD dataset via this [Google Drive link](https://drive.google.com/drive/folders/1-Hu9aoFgu1fBIE4aRwjdMXov1CxHJkg7?usp=sharing).
 
 ## Environment Setup
 ```
