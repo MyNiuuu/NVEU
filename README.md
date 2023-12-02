@@ -3,7 +3,7 @@
 In this repository, we provide source codes and pretrained checkpoint for run the test demo.
 
 ## FMSVD Dataset
-You can download the FMSVD dataset via this [Google Drive link](https://drive.google.com/drive/folders/1-Hu9aoFgu1fBIE4aRwjdMXov1CxHJkg7?usp=sharing).
+You can download the FMSVD dataset [here](https://drive.google.com/drive/folders/1-Hu9aoFgu1fBIE4aRwjdMXov1CxHJkg7?usp=sharing) (split) or [here](https://drive.google.com/file/d/1uRJPCjoiUZKydkR3Rt5Rg7cXKw1ivHn1/view?usp=sharing) (one zip file).
 
 ## Environment Setup
 ```
