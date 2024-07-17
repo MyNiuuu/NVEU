@@ -5,6 +5,10 @@ In this repository, we provide source codes and pretrained checkpoint for run th
 ## FMSVD Dataset
 You can download the FMSVD dataset [here](https://drive.google.com/drive/folders/1-Hu9aoFgu1fBIE4aRwjdMXov1CxHJkg7?usp=sharing) (split) or [here](https://drive.google.com/file/d/1uRJPCjoiUZKydkR3Rt5Rg7cXKw1ivHn1/view?usp=sharing) (one zip file).
 
+## Third-party dataset and NIR Relighting codes
+
+You can dowload the third-party dataset and NIR relighting codes from this [link](https://drive.google.com/file/d/1gEGlRhOiJV3QQzcGhX2EFWBzyclJgyIo/view?usp=sharing).
+
 ## Environment Setup
 ```
 conda create -n nir python==3.8
